@@ -8,11 +8,11 @@ public class QuizGame {
 		// ASK A QUESTION AND CHECK THE ANSWER
 		
 				// 2.  Ask the user a question 
-				
+				String input = JOptionPane.showInputDialog("What is the value of x in -2x(9x)if it equals -14?");
 				// 3.  Use an if statement to check if their answer is correct
-				
+				-2 = x
 				// 4.  if the user's answer was correct, add one to their score 
-		
+		if (input.equals ("-2")) {
 		// MAKE MORE QUESTIONS. Ask more questions by repeating the above 
 				// Option: Subtract a point from their score for a wrong answer
 		
